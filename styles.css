@@ -1,5 +1,7 @@
 .bad, .bad *:not(.X\58X) { color: gray; }
-
+.test {
+  color: red;
+}
 .applies .yes, .yesno .yes { background: yellow; }
 .yesno .yes, .yesno .no { text-align: center; }
 
